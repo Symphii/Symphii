@@ -1,4 +1,2 @@
-- Hi, I’m Symphii !
-- Avid League, TFT, Legends of Runeterra player
-- Just trying to survive uni one day at a time copium
+- Just your average engineering student trying to survive UWaterloo Eng
 
